@@ -1,0 +1,13 @@
+
+server:
+  name: mwares
+
+minio:
+  accessKey: AYLfDbm0LQYcEXYhTde0
+  secretKey: tCsuNDapp5dTrxHQrrv3IDa5mgBLbUe4ZVpLN0MH
+  endpoint: 127.0.0.1:9000
+  bucket: mixspace
+
+zhipu:
+  token: 0a12f4c0dfde49ab99247bdae5703708.mjvWWdFTHYzRhrep
+  api: https://open.bigmodel.cn/api/paas/v4/chat/completions
